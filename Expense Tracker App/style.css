@@ -1,0 +1,13 @@
+body{
+    background-color: blanchedalmond;
+    font-family: 'Segoe UI', sans-serif;
+} h2{
+    font-weight: bold;
+}
+#balance{
+color: green;
+font-weight: bold;
+}
+.income{
+    border-left: 5px solid red;
+}
